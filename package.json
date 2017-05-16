@@ -1,0 +1,15 @@
+{
+  "name": "pi_zero_traffic_monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Koroluk <koroluka@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@google/maps": "^0.3.1",
+    "wiring-pi": "^2.2.1"
+  }
+}
