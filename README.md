@@ -21,6 +21,6 @@ You'll need a Google Maps API key, with the Distance Matrix & Geocoding APIs ena
 $ node index
 ```
 
-<!--## Demo-->
+## Demo
 
-<!--![Video Demonstration]()-->
+![Video Demonstration](giphy.gif)
